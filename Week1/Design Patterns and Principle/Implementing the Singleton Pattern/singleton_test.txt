@@ -1,0 +1,6 @@
+Compile and run the Singleton_main class.We got output
+
+Both logger1 and logger2 are the same instance.
+Log message: This is a log message.
+
+This confirms that the Logger class correctly implements the Singleton pattern and ensures only one instance is used throughout the application.
